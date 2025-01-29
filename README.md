@@ -34,5 +34,6 @@
 - [ ]  **Saving ClientSettings**
 - [ ]  **GameSessions if i wont cba**
 
+i forgot abt it updates soon!!!
 
 **sorry skies had no idea how to make readme look good so i took smh from chronos :pensive:** 
